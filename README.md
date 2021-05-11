@@ -1,0 +1,1 @@
+## practice script to manipulate DOM using javascript.
